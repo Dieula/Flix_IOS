@@ -2,7 +2,7 @@
 
 **Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **7:35** hours spent in total
+Time spent: **24h** hours spent in total
 
 ## User Stories
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2018] [Dieula]
+    Copyright 2018 Dieula
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
